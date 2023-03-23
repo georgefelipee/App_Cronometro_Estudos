@@ -1,4 +1,5 @@
 # App_Cronometro_Estudos
+# 🖥️ Confira este projeto no Vercel  app-cronometro-estudos.vercel.app
 
 # 📕Descrição
 Este App foi desenvolvido durante os estudos de React com TypeScript, consiste em um temporizador de estudos.

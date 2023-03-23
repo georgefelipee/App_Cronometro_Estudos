@@ -1,4 +1,4 @@
-# App_Cronometro_Estudos
+# Timer Study
 # 🖥️ Confira este projeto no Vercel: https://app-cronometro-estudos.vercel.app/
 
 # 📕Descrição
